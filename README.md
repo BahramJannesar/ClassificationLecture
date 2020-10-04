@@ -27,20 +27,27 @@ Supervised learning is the machine learning task of learning a function that map
 
 The most widely used learning algorithms are:
 
-* Support Vector Machines
-* linear regression
-* logistic regression
-* naive Bayes
+* Support Vector Machines ( Classification )
+* linear regression ( Regression )
+* logistic regression ( Classification )
+* naive Bayes ( Classification )
 * linear discriminant analysis
-* decision trees
-* k-nearest neighbor algorithm
-* Neural Networks (Multilayer perceptron)
-* Similarity learning
+* decision trees ( Classification , Regression )
+* k-nearest neighbor algorithm ( Classification )
 
 #### Alogrithms are sprated to two brances
 
 * **Classification :** On the other hand, classification algorithms attempt to estimate the mapping function (f) from the input variables (x) to discrete or categorical output variables (y).
 
 * **Regression :** In machine learning, regression algorithms attempt to estimate the mapping function (f) from the input variables (x) to numerical or continuous output variables (y).
+
+The main difference between them is that the output variable in regression is numerical (or continuous) while that for classification is categorical (or discrete).
+
+
+#### Today Algorithm is Logistic Regression 
+
+In statistics, the logistic model (or logit model) is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick. This can be extended to model several classes of events such as determining whether an image contains a cat, dog, lion, etc. Each object being detected in the image would be assigned a probability between 0 and 1, with a sum of one.
+
+
 
 
