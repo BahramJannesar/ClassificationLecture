@@ -6,6 +6,8 @@
 
 [Alan Mathison Turing](https://en.wikipedia.org/wiki/Alan_Turing) OBE FRS (/ˈtjʊərɪŋ/; 23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist.Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer.Turing is widely considered to be the father of theoretical computer science and artificial intelligence.
 
+![](https://github.com/BahramJannesar/ClassificationLecture/blob/main/image/stories_alan_turing_hero.jpg)
+
 ### Imitation Game 
 
 This is the game that you can gusse the person that you talking to is a machine or a human ?
@@ -43,6 +45,7 @@ The most widely used learning algorithms are:
 
 The main difference between them is that the output variable in regression is numerical (or continuous) while that for classification is categorical (or discrete).
 
+![](https://github.com/BahramJannesar/ClassificationLecture/blob/main/image/0_AYgHG8JZ2zIG6m8-.png)
 
 #### Today Algorithm is Logistic Regression 
 
